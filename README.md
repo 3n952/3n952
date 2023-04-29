@@ -1,27 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,1,2,4&height=300&text=Hello%20World!&desc=Welcome%20to%20San's%20github%20profile&Desc&descSize=15&descAlign=60)
 
 
-### 안녕하세요 👋
-저는 인공지능을 공부하는 학생입니다.
-현재 대학교에 재학중이며, Computer Vision 분야에 관심이 많습니다!
+### Hi there 👋
+I am a student studying artificial intelligence. 
+I am currently attending university, and I am very interested in Computer Vision!
 
-지속가능한 개발자가 되는 것이 꿈이고, 항상 배우려는 자세로 임하고 있습니다.
+It is my dream to become a sustainable developer.
+To do so,
+I'm always working on learning every day, being steady and motivated.
 
-##### Contact
+<a href="https://sanmldl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/shanda3952@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
+### Skills⚡
+###### Languages
+<img src="https://img.shields.io/badge/Python-0078D7?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
-##### Stack
-<img src="https://img.shields.io/badge/Python-00000?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-Here are some ideas to get you started:
+###### Python AI 
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Yolo-00FFFF?style=for-the-badge&logo=Yolo&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+
+
+### Tools⚡
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3n952&show_icons=true&theme=radical)
+
+
