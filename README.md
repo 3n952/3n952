@@ -3,14 +3,14 @@
 
 ### Hi there 👋
 I am a student studying artificial intelligence. 
-I am currently attending university, and I am very interested in Computer Vision!
+I am currently interested in Computer Vision & Robotics!
 
-It is my dream to become a sustainable developer.
-To do so,
-I'm always working on learning every day, being steady and motivated.
+I want to become a sustainable developer.
+To do so, I'm always working on learning every day, being steady and motivated.
+
+It is my dream that AI makes world better.
 
 # Learning by doing!
-
 
 <a href="https://sanmldl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/smrlatks@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
