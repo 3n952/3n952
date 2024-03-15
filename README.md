@@ -10,7 +10,7 @@ I want to become a sustainable developer.
 To do so, 
 I'm always working on learning every day, being steady and motivated.  
 
-It is my dream that AI makes world better.
+It is my dream that AI makes the world better.
 
 # Learning by doing!
 
