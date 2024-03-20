@@ -14,7 +14,8 @@ It is my dream that AI makes the world better.
 
 # Learning by doing!
 
-<a href="https://sanmldl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/smrlatks@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://sanmldl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/smrlatks@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 ### Skills⚡
