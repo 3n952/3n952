@@ -2,16 +2,6 @@
 
 
 ### Hi there 👋
-I am a student studying artificial intelligence. 
-I am mainly interested in Computer Vision & Robotics!
-
-I want to become a sustainable developer.  
-
-To do so, 
-I'm always working on learning every day, being steady and motivated.  
-
-It is my dream that AI makes the world better.
-
 I’m an AI engineer with a broad interest in AI systems.
 
 While I find fields like **Natural Language Processing** fascinating, I’m especially drawn to **Computer Vision**, where perception meets physical interaction.
