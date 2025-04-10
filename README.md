@@ -12,6 +12,15 @@ I'm always working on learning every day, being steady and motivated.
 
 It is my dream that AI makes the world better.
 
+I’m an AI engineer with a broad interest in AI systems.
+
+While I find fields like **Natural Language Processing** fascinating, I’m especially drawn to **Computer Vision**, where perception meets physical interaction.
+My current focus lies in **vision-based AI** including both **classical vision techniques** and **emerging approaches** such as **Visual SLAM**, **Spatial AI**, and **Multimodal Learning**, aiming to connect perception with real-world understanding.
+
+Above all, I strive to become a **sustainable developer** — someone who grows steadily, learns continuously, and contributes meaningfully.
+I believe AI can make the world better, and I want to be part of that journey.
+
+
 # Learning by doing!
 
 <a href="https://sanmldl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
