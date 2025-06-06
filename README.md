@@ -39,13 +39,13 @@ I believe AI can make the world better, and I want to be part of that journey.
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-### ⚙️ Distributed Computing
+### ⚙️ Data engineering
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white">
 </div>
 
-### 🤖 Deep Learning / ML
+### 🤖 Deep Learning / Machine learning
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
