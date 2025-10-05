@@ -16,21 +16,21 @@ I believe AI can make the world better
 <img src="https://img.shields.io/badge/smrlatks@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-## ⚡ Skills
+## 💻 Skills
 
-### 💻 Languages
+### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 </div>
 
-### 🗄️ Database
+### Database
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-### 📊 Data Analysis
+### Data Analysis
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -38,13 +38,13 @@ I believe AI can make the world better
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-### ⚙️ Data engineering
+### Data engineering
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white">
 </div>
 
-### 🤖 Deep Learning / Machine learning
+### Deep Learning / Machine learning
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -55,14 +55,14 @@ I believe AI can make the world better
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
 </div>
 
-### 🚀 Deployment
+### Deployment
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
-### 🧑‍💻 Dev & Collaboration
+### Dev & Collaboration
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
