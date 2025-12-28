@@ -16,7 +16,3 @@ I believe AI can make the world better
 <img src="https://img.shields.io/badge/smrlatks@gmail.com-D4021D?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3n952&show_icons=true&theme=radical)
-
-
