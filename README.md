@@ -1,22 +1,18 @@
-<h2> hi there, i'm san 👋 </h2>
+<h2> hi there, i'm San Kim 👋 </h2>
 
-ai engineer based in seoul. computer vision · multimodal · learning by doing.
+Ai engineer based in seoul. computer vision · multimodal · learning by doing.
 
 📫 reach out — [email](mailto:smrlatks@gmail.com) · [blog](https://sanmldl.tistory.com/)
 
 ---
 
-🔭 **currently building:**
+**currently building:**
 
-production-grade computer vision systems for retail store operations.
-
-🌱 **currently learning:**
-
-video generation, spatial ai, vision-language models.
+production-grade AI-powered retail store operations systems.
 
 💭 **i believe**
 
-ai can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
+Ai can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
 
 ---
 
@@ -26,15 +22,7 @@ ai can make the world better — and i strive to become a sustainable developer 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,aws,git,linux" />
 </p>
 
-<!-- ─────────────────────────────  WAKATIME  ─────────────────────────────
-     아래 통계는 WakaTime 셋업이 필요해 (선택). 안 쓰려면 이 섹션 통째로 지워.
-     setup: https://github.com/athul/waka-readme
--->
 
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
