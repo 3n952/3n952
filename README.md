@@ -27,7 +27,7 @@ I believe AI can make the world better
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F6AE8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+San+Kim+%F0%9F%91%8B;Software+Engineer+for+AI;Computer+Vision+%C2%B7+Spatial+AI+%C2%B7+Multimodal;Learning+by+doing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F6AE8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+San+Kim+%F0%9F%91%8B;Software+Engineer+for+AI;Learning+by+doing!)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,46 +36,27 @@ I believe AI can make the world better
 ### 🧭 About Me
 
 I’m an **AI engineer** with a broad interest in AI.
-
-While I find **Natural Language Processing** fascinating, I’m especially drawn to **Computer Vision**, where perception meets physical interaction. My current focus lies in **vision-based AI** — including both **classical vision techniques** and **emerging approaches** such as **Image / Video Generation**, **Spatial AI**, and **Multimodal Learning** — aiming to connect perception with real-world understanding.
-
-Above all, I strive to become a **sustainable developer** — someone who grows steadily, learns continuously, and contributes meaningfully.  
+I strive to become a **sustainable developer** — someone who grows steadily, learns continuously, and contributes meaningfully.  
 I believe AI can make the world better. 🌱
 
-- 📍 Based in **Seoul, South Korea**
-- 🛠 Currently building production-grade computer vision systems
-- ✍️ I write at [`sanmldl.tistory.com`](https://sanmldl.tistory.com/)
-- 📫 Reach me at **smrlatks@gmail.com**
-
-<!-- ─────────────────────────────  CONNECT  ───────────────────────────── -->
-
-### 🔗 Connect with me
-
-<p>
-  <a href="https://sanmldl.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
-  <a href="mailto:smrlatks@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D4021D?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/3n952" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Based in **Seoul, South Korea**
+- Currently building production-grade computer vision systems
+- I write at [`sanmldl.tistory.com`](https://sanmldl.tistory.com/)
+- Reach me at **smrlatks@gmail.com**
 
 <!-- ─────────────────────────────  TECH STACK  ─────────────────────────────
      Icons from https://skillicons.dev  (편집은 ?i= 뒤 쉼표 리스트만 바꿔주면 됨)
 -->
 
-### 🧰 Tech Stack
+### Tech Stack
 
-**Languages & Core**
+**Core**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,ts,js" />
 </p>
 
-**AI / ML / CV**
+**ML**
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
