@@ -6,10 +6,6 @@ Ai engineer based in seoul. computer vision · multimodal · learning by doing.
 
 ---
 
-**currently building:**
-
-production-grade AI-powered retail store operations systems.
-
 💭 **i believe**
 
 Ai can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
