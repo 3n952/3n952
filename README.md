@@ -8,7 +8,7 @@ Ai engineer based in seoul. interested in Agentic · Multimodal AI. learning by 
 
 **i believe**
 
-Ai can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
+AI can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
 
 ---
 
