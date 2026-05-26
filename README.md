@@ -19,16 +19,6 @@ Ai can make the world better — and i strive to become a sustainable developer 
 </p>
 
 
-
-<!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
-
-**my github stats:**
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=3n952&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3n952&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
-</p>
-
 <!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
 
 🐍 **my contribution graph eaten by a snake:**
