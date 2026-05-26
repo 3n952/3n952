@@ -21,7 +21,7 @@ AI can make the world better — and i strive to become a sustainable developer 
 
 <!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
 
-🐍 **my contribution graph eaten by a snake:**
+**contribution graph**
 
 <img src="https://raw.githubusercontent.com/3n952/3n952/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
