@@ -6,13 +6,13 @@ Ai engineer based in seoul. computer vision · multimodal · learning by doing.
 
 ---
 
-💭 **i believe**
+**i believe**
 
 Ai can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
 
 ---
 
-⚙️ **stack i work with:**
+**stack i work with:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,aws,git,linux" />
@@ -22,7 +22,7 @@ Ai can make the world better — and i strive to become a sustainable developer 
 
 <!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
-📈 **my github stats:**
+**my github stats:**
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=3n952&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
