@@ -1,6 +1,6 @@
 <h2> hi there, i'm San Kim 👋 </h2>
 
-Ai engineer based in seoul. computer vision · multimodal · learning by doing.
+Ai engineer based in seoul. interested in Agentic · Multimodal AI. learning by doing.
 
 📫 reach out — [email](mailto:smrlatks@gmail.com) · [blog](https://sanmldl.tistory.com/)
 
