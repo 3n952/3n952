@@ -1,12 +1,13 @@
 <h2> hi there, i'm San Kim 👋 </h2>
 
-Ai engineer based in seoul. interested in Agentic · Multimodal AI. learning by doing.
+AI engineer based in seoul. Also i am interested in Agentic · Multimodal AI. 
+Learning by doing is my best practice.
 
 📫 reach out — [email](mailto:smrlatks@gmail.com) · [blog](https://sanmldl.tistory.com/)
 
 ---
 
-**i believe** 
+**i believe**
 
 AI can make the world better — and i strive to become a sustainable developer who grows steadily, learns continuously, and contributes meaningfully.
 
